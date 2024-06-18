@@ -1,9 +1,7 @@
+import MainRouter from "./MainRouter";
+
 function App() {
-  return (
-    <>
-      <h1>React Homework Template (Vite)</h1>
-    </>
-  );
+  return <MainRouter />
 }
 
 export default App;
